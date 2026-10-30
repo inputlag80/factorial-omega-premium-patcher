@@ -8,7 +8,7 @@
 
 ---
 
-[check (patch CT)](https://drive.google.com/file/d/1dfUHbTu8ouSFYn-6f8HxCmGe5mxADAy6/view?usp=sharing)
+[check (patch CT)](https://drive.google.com/file/d/1dfUHbTu8ouSFYn-6f8HxCmGe5mxADAy6/view?usp=sharing) for V 0.97.11
 
 ---
 
