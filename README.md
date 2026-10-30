@@ -8,6 +8,10 @@
 
 ---
 
+check (patch CT)[https://drive.google.com/file/d/1dfUHbTu8ouSFYn-6f8HxCmGe5mxADAy6/view?usp=sharing]
+
+---
+
 Universal lightweight source-code auto-patcher for **!Ω Factorial Omega: My Dystopian Robot Girlfriend**.
 Bypasses RSA code verification and unlocks premium cheat tiers locally.
 
