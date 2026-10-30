@@ -8,7 +8,7 @@
 
 ---
 
-проверте также починеную табличку [(CT)](https://drive.google.com/file/d/1dfUHbTu8ouSFYn-6f8HxCmGe5mxADAy6/view?usp=sharing) for Version 0.97.11
+проверте также починеную табличку [(CT)](https://drive.google.com/file/d/1dfUHbTu8ouSFYn-6f8HxCmGe5mxADAy6/view?usp=sharing) для версии 0.97.11
 
 ---
 
